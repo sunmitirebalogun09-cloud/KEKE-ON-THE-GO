@@ -41,6 +41,7 @@ Acceptance criteria
 - The program displays the amount clearly.
 
 Assumptions 
-We dont know whether the system would be able to cope witht the amount of users 
+We dont know whether the system would be able to cope with the amount of users
+We are not sure whether the pricing will be accurate 
 
 
